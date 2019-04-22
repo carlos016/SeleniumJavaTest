@@ -42,7 +42,7 @@ public class TestForDocumento {
         // Enter something to search for
         element.sendKeys("Cheese!");
 
-        // NOw submit the form. WebDriver will find the form for us from the element
+        // Now submit the form. WebDriver will find the form for us from the element
         element.submit();
 
         // Check the tittle of the page
