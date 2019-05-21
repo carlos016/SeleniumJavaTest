@@ -1,2 +1,2 @@
 # SeleniumJavaTest
-Example of a simple test in Java using Selenium WebDriver.
+Example of a simple test in Intellij using Java Selenium WebDriver.
